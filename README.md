@@ -447,7 +447,7 @@
                     <div class="stat-label">Uptime</div>
                 </div>
                 <div>
-                    <div class="stat">1M+</div>
+                    <div class="stat">998+</div>
                     <div class="stat-label">Attacks Blocked</div>
                 </div>
                 <div>
