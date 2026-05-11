@@ -1,5 +1,5 @@
 # SecureX
-Antinuke Discord server bot <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -439,7 +439,7 @@ Antinuke Discord server bot <!DOCTYPE html>
         <div class="container">
             <div class="stats-grid">
                 <div>
-                    <div class="stat">10K+</div>
+                    <div class="stat">999+</div>
                     <div class="stat-label">Servers Protected</div>
                 </div>
                 <div>
